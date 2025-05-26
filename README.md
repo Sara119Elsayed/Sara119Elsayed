@@ -6,7 +6,6 @@
   Technologies I enjoy working with include Dart, Flutter, Angular, React.js, Node.js, JavaScript, React Native, and Firebase.
 </p>
 
----
 - 🎓 Graduate in Computer Science  
 - 💻 Passionate about front-end and mobile development  
 - 🔧 Skilled in Dart, Flutter, Angular, React.js, Node.js, JavaScript, React Native, Firebase  
