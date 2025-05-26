@@ -1,6 +1,6 @@
-<h1 align="center"> Hi I'm Sara </h1>
-<p>I'm software developer who is Passionate about front-end
-development, whether for mobile or web applications, and creating seamless, user-friendly
-experiences. I have hands-on experience in building mobile apps using Flutter, with integration of
-UI/UX design,and APIs. I'm also highly engaged in modern web development,
-with a solid foundation in different web technologies.</p>
+<h1 align="center"> Hi 👋,I'm Sara </h1>
+<p align="center>I'm a mobile developer who is passionate about creating a new apps to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Dart, Flutter Javascript, ReactJS, React-Native, and Firebase.</p>
+
+<p>🌱 I’m currently learning about mobile development</p>
+<p>👯 I’m Intersted to learn more about flutter frameworke.</p>
+
