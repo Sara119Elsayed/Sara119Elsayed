@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 <p align="center">
-  A recent graduate with a degree in Computer Science ,I'm a software developer passionate about front-end development, whether for mobile or web applications. I enjoy creating new apps to elevate people and help new developers find the right path. <br><br>Technologies I enjoy working with include Dart, Flutter, Angular, React.js, Node.js, JavaScript, React Native, and Firebase.
+  A recent graduate with a degree in Computer Science ,I'm a software developer passionate about front-end development, whether for mobile or web applications. I enjoy creating new apps to elevate people. <br><br>Technologies I enjoy working with include Dart, Flutter, Angular, React.js, Node.js, JavaScript, React Native, and Firebase.
 </p>
 
 - 🎓 Graduate in Computer Science  
@@ -22,7 +22,7 @@
 
 ## 💻 My Skills
 <p>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <P src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
