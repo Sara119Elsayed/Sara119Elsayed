@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 <p align="center">
-  A recent graduate with a degree in Computer Science ,I'm a software developer passionate about front-end development, whether for mobile or web applications. I enjoy creating new apps to elevate people. <br><br>Technologies I enjoy working with include Dart, Flutter, Angular, React.js, Node.js, JavaScript, React Native, and Firebase.
+  A recent graduate with a degree in Computer Science ,I'm a software developer passionate about FullStack & Mobile development. <br><br>Technologies  Flutter, Angular, React.js, Node.js, JavaScript, React Native, and Firebase.
 </p>
 
 - 🎓 Graduate in Computer Science  
