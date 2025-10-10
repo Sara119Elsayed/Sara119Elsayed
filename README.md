@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sara</h1>
 
-## 🚀 About Me
 <p align="center">
   A recent graduate with a degree in Computer Science ,I'm a software developer passionate about FullStack & Mobile development. <br><br>Technologies  Flutter, Angular, React.js, Node.js, JavaScript, React Native, and Firebase.
 </p>
