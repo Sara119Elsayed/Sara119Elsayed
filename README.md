@@ -8,7 +8,6 @@
 - 🎓 Graduate in Computer Science  
 - 🔧 Skilled in Dart, Flutter, Angular, React.js, Node.js, JavaScript, React Native, Firebase,Html, Css, Bootstrap, NeaxtJs
 - 🎨 Love creating beautiful UIs with Figma
-- 
 
 ## 🔗 Connect with me
 <p align="left">
