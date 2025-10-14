@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sara</h1>
 
 <p align="center">
-  A recent graduate with a degree in Computer Science ,I'm a software developer passionate about FullStack & Mobile development. <br><br>Technologies  Flutter, Angular, React.js, Node.js, JavaScript, React Native, and Firebase.
+  A recent graduate with a degree in Computer Science ,I'm a software developer passionate about FullStack & Mobile development. <br><br>Technologies  Flutter, Node.js, Angular, React.js, JavaScript, React Native, and Firebase.
 </p>
 
 - 🎓 Graduate in Computer Science  
@@ -12,6 +12,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/saraelsayed9" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <a href="saraelsayedlotfy4@gmail.com"></a>
   </a>
 </p>
 
