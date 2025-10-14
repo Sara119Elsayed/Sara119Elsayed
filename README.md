@@ -12,6 +12,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/saraelsayed9" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <p Email/>
     <a href="saraelsayedlotfy4@gmail.com"></a>
   </a>
 </p>
