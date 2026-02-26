@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sara</h1>
 
 <p align="center">
-  A recent graduate with a degree in Computer Science ,I'm a software developer passionate about FullStack & Mobile development. <br><br>Technologies  Flutter, Node.js, Angular, React.js, JavaScript, React Native, and Firebase.
+  Graduate with a degree in Computer Science ,I'm a software developer passionate about FullStack & Mobile development. <br><br>Technologies  Flutter, Node.js, React.js ,NeaxtJs , React Native, and Firebase.
 </p>
 
 - 🎓 Graduate in Computer Science  
-- 🔧 Skilled in Dart, Flutter, Angular, React.js, Node.js, JavaScript, Firebase,Html, Css, Bootstrap, NeaxtJs
+- 🔧 Skilled in Dart, Flutter, React.js, Node.js, JavaScript, Firebase,Html, Css, Bootstrap, NeaxtJs , JavaScript
 - 🎨 Love creating beautiful UIs with Figma
 
 ## 🔗 Connect with me
