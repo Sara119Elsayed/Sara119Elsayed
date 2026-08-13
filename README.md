@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Sara</h1>
 
 <p>
-Graduate in Computer and Artificial Intelligence at fayoum University with a diploma in Mobile Applications Development from the Information Technology Institution - ITI. I specialize in frontend (React.js , Next.js), backend (Node.js), and mobile (Flutter) development. I am passionate about building user-friendly and efficient applications. I am proficient in using Figma to design intuitive and visually appealing user interfaces for both web and mobile platforms.
+Graduate in Computer and Artificial Intelligence at fayoum University with a diploma in Cross-Platform & Frontend Development from the Information Technology Institution - ITI. I specialize in frontend (React.js , Next.js), backend (Node.js), and mobile (Flutter) development. I am passionate about building user-friendly and efficient applications. I am proficient in using Figma to design intuitive and visually appealing user interfaces for both web and mobile platforms.
 </p>
 
 
