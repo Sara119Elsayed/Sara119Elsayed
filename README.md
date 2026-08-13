@@ -1,11 +1,11 @@
 <h1>Hi 👋, I'm Sara</h1>
 
-<p align="center">
-  Graduate with a degree in Computer Science ,I'm a software developer passionate about FrontEnd & Mobile development. <br><br>Technologies  Flutter, Node.js, React.js ,NeaxtJs , React Native, and Firebase.
+<p>
+Graduate in Computer and Artificial Intelligence at fayoum University with a diploma in Mobile Applications Development from the Information Technology Institution - ITI. I specialize in frontend (React.js , Next.js), backend (Node.js), and mobile (Flutter) development. I am passionate about building user-friendly and efficient applications. I am proficient in using Figma to design intuitive and visually appealing user interfaces for both web and mobile platforms.
 </p>
 
 - 🎓 Graduate in Computer Science  
-- 🔧 Skilled in Dart, Flutter, ReactNative , React.js, NeaxtJs ,Node.js, Bootstrap, JavaScript,Html, Css
+- 🔧 Skilled in React.js, NeaxtJs,Node.js, Bootstrap, JavaScript, Html, Css,Flutter
 - 🎨 Love creating beautiful UIs with Figma
 
 ## 🔗 Connect with me
