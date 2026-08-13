@@ -11,7 +11,7 @@ Graduate in Computer and Artificial Intelligence at fayoum University with a dip
   <a href="https://www.linkedin.com/in/saraelsayed9" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=saraelsayedlotfy4@gmail.com" target="_blank" rel="noopener noreferrer">
+<a href="mailto:saraelsayedlotfy4@gmail.com">
   <img
     src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Email"
