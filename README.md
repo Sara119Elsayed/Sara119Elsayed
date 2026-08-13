@@ -4,22 +4,24 @@
 Graduate in Computer and Artificial Intelligence at fayoum University with a diploma in Mobile Applications Development from the Information Technology Institution - ITI. I specialize in frontend (React.js , Next.js), backend (Node.js), and mobile (Flutter) development. I am passionate about building user-friendly and efficient applications. I am proficient in using Figma to design intuitive and visually appealing user interfaces for both web and mobile platforms.
 </p>
 
-- 🎓 Graduate in Computer Science  
-- 🔧 Skilled in React.js, NeaxtJs,Node.js, Bootstrap, JavaScript, Html, Css,Flutter
 - 🎨 Love creating beautiful UIs with Figma
 
 ## 🔗 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/saraelsayed9" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    <p Email/>
-    <a href="saraelsayedlotfy4@gmail.com"></a>
   </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=saraelsayedlotfy4@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
 </p>
 
 ---
 
-## 💻 My Skills
+## 🛠️ Technologies & Tools
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -32,6 +34,7 @@ Graduate in Computer and Artificial Intelligence at fayoum University with a dip
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 
