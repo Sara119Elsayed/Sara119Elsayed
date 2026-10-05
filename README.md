@@ -48,42 +48,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-
----
-
-## 💼 Featured Projects
-
-### 🌱 Plant eCommerce Web Application
-
-A responsive e-commerce web application for browsing and purchasing plants, featuring product management, authentication, favorites, cart, and order functionality.
-
-**Technologies:** Angular · TypeScript · Tailwind CSS · Firebase · REST APIs · HTML · CSS
-
-### 🛍️ Shelfly eCommerce Web Application
-
-A modern e-commerce web application built with **React.js and Tailwind CSS**, providing a seamless shopping experience with product discovery and user account features.
-
-- 🛒 Implemented **product browsing, filtering, shopping cart, and wishlist** functionality.
-- 🔐 Implemented **user authentication** and protected user features.
-- 🎨 Built a **responsive and modern UI** using React.js and Tailwind CSS.
-
-**Technologies:** React.js · JavaScript · Tailwind CSS · Authentication
-
-### 🍰 Yum Slice
-Full-stack online cake store built with **Flutter and the MERN stack**.
-
-**Technologies:** Flutter · Dart · React · Node.js · Express.js · MongoDB · Firebase
-
-
-### 📱 Tasky Mobile Application
-
-A mobile task management application built with **Flutter** using the **MVVM architecture**.
-
-- ✅ Implemented full **CRUD functionality** for creating, viewing, updating, and deleting tasks.
-- 🔄 Implemented **state management** for efficiently managing and updating task data.
-- 💾 Used **SharedPreferences** for local data persistence.
-- 
-**Technologies:** Flutter · Dart · MVVM · State Management · SharedPreferences
+  
 ---
 
 ## 📫 Connect With Me
