@@ -16,12 +16,8 @@
 
 - 🎓 Computer Science Graduate — Fayoum University
 - 💻 Software Engineer with experience in mobile & web development
-- 🌐 Specialized in **React.js & Next.js**
-- 📱 Experienced in **Flutter & React Native**
-- 🔗 Experienced in **RESTful API Integration**
-- 🎨 Interested in **UI/UX & Figma-to-Frontend Development**
-- 🧩 Passionate about building scalable and user-friendly applications
-- 📚 Always learning new technologies and improving my development skills
+- 💼 I specialize in Frontend (React.js, next.js) , Cross-Platform Mobile Development (Flutter) and Backend (Node.js, Express, MongoDB).
+- 📱 I enjoy building apps that are responsive, scalable, and have clean UI/UX.
 
 ---
 
