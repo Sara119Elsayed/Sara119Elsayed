@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sara Elsayed
 
 ### Software Engineer | Cross-Platform & FrontEnd(React.js,Next.js) Developer
-
+--
 <p align="left">
   Computer Science graduate from Fayoum University with an ITI Professional Diploma in Mobile Application Development. I build modern, responsive, and user-friendly web and mobile applications using React.js, Next.js, Node.js, and Flutter.
 </p>
@@ -54,9 +54,4 @@
   <a href="mailto:saraelsayedlotfy4@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
-
-
-<p align="center">
-  <b>✨ Building, Learning, and Growing Through Code ✨</b>
 </p>
