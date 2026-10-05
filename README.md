@@ -3,7 +3,7 @@
 ### Software Engineer | Cross-Platform & FrontEnd(React.js,Next.js) Developer
 ---
 <p align="left">
-  Computer Science graduate from Fayoum University with an ITI Professional Diploma in Mobile Application Development. I build modern, responsive, and user-friendly web and mobile applications using React.js, Next.js, Node.js, and Flutter.
+  Computer Science graduate from Fayoum University with an ITI Professional Diploma in Cross-Platform Application Development. I build modern, responsive, and user-friendly web and mobile applications using React.js, Next.js, Node.js, and Flutter.
 </p>
 
 <p align="left">
