@@ -11,13 +11,6 @@
 </p>
 
 
-## 🚀 About Me
-
-- 🎓 Computer Science Graduate — Fayoum University
-- 💻 Software Engineer with experience in mobile & web development
-- 💼 I specialize in Frontend (React.js, next.js) , Cross-Platform Mobile Development (Flutter) and Backend (Node.js, Express, MongoDB).
-- 📱 I enjoy building apps that are responsive, scalable, and have clean UI/UX.
-
 
 ## 🛠️ Technologies & Tools
 
