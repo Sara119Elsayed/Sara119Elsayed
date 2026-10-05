@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 - 🎓 Computer Science Graduate — Fayoum University
-- 💻 Software Engineer with experience in web and application development
+- 💻 Software Engineer with experience in mobile & web development
 - 🌐 Specialized in **React.js & Next.js**
 - 📱 Experienced in **Flutter & React Native**
 - 🔗 Experienced in **RESTful API Integration**
@@ -68,23 +68,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saraelsayed9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraelsayed9&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saraelsayed9&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 💼 Featured Projects
 
 ### 🌱 Plant eCommerce Web Application
@@ -116,8 +99,7 @@ A mobile task management application built with **Flutter** using the **MVVM arc
 - ✅ Implemented full **CRUD functionality** for creating, viewing, updating, and deleting tasks.
 - 🔄 Implemented **state management** for efficiently managing and updating task data.
 - 💾 Used **SharedPreferences** for local data persistence.
-- 📅 **May 2025 – June 2025**
-
+- 
 **Technologies:** Flutter · Dart · MVVM · State Management · SharedPreferences
 ---
 
