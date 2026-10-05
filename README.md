@@ -10,7 +10,6 @@
   I have hands-on experience developing real-world dashboards, integrating RESTful APIs, building reusable UI components, and working with databases and authentication systems. I also use Figma to translate UI designs into clean and responsive interfaces.
 </p>
 
----
 
 ## 🚀 About Me
 
@@ -19,7 +18,6 @@
 - 💼 I specialize in Frontend (React.js, next.js) , Cross-Platform Mobile Development (Flutter) and Backend (Node.js, Express, MongoDB).
 - 📱 I enjoy building apps that are responsive, scalable, and have clean UI/UX.
 
----
 
 ## 🛠️ Technologies & Tools
 
@@ -45,7 +43,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
   
----
 
 ## 📫 Connect With Me
 
@@ -59,7 +56,6 @@
   </a>
 </p>
 
----
 
 <p align="center">
   <b>✨ Building, Learning, and Growing Through Code ✨</b>
