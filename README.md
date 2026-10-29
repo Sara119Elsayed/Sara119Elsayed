@@ -19,10 +19,10 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,dart,flutter" alt="Mobile development technologies" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Front-end technologies" />
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,ts,dart" alt=" programming development technologies" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,tailwind,bootstrap" alt="Front-end and mobile technologies" />
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql" alt="Back-end and database technologies" />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Development tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Development tools" />
 </p>
 
 
