@@ -30,17 +30,8 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=dart,flutter" alt="Mobile development technologies" />
-</p>
-
-<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Front-end technologies" />
-</p>
-
-<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql" alt="Back-end and database technologies" />
-</p>
-
-<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,cpp" alt="Development tools" />
 </p>
 
