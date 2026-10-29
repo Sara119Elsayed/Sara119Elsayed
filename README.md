@@ -54,20 +54,9 @@
 
 ---
 
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution animation" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saraelsayed9">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="mailto:saraelsayedlotfy4@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -76,10 +65,3 @@
   </a>
 </p>
 
-<p align="center">
-  💡 <i>"Building useful solutions, one line of code at a time."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=8&section=footer" width="100%" alt="Decorative footer" />
-</p>
