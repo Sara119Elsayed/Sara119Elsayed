@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sara Elsayed
 
-###  Software Engineer | Front-End & Cross-Platform Developer
+###  Software Engineer | FrontEnd & Cross-Platform Developer
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;React.js+%7C+Next.js+%7C+JavaScript;Flutter+%7C+Node.js+%7C+REST+APIs;Turning+Ideas+Into+Digital+Experiences" alt="Typing SVG" />
@@ -12,27 +12,21 @@
 
 ## 🌟 About Me
 
-🎓 Computer Science graduate from Fayoum University .
+<p align="left">
+  Computer Science graduate from Fayoum University with an ITI Professional Diploma in Cross-Platform Application Development. I build modern, responsive, and user-friendly web and mobile applications using React.js, Next.js, Node.js, and Flutter.
+</p>
 
-📱 ITI Professional Diploma graduate in **Cross-Platform & FrontEnd Application Development**.
-
-💼 Software Engineer with professional experience building web dashboards and interactive applications.
-
-🚀 Passionate about developing modern, responsive, accessible, and user-friendly digital experiences.
-
-⚡ Experienced in **React.js, Next.js, JavaScript, Tailwind CSS, Flutter, and RESTful API integration**.
-
-🧩 Interested in clean code, reusable components, scalable applications, and continuous learning.
-
----
+<p align="left">
+  I have hands-on experience developing real-world dashboards, integrating RESTful APIs, building reusable UI components, and working with databases and authentication systems. I also use Figma to translate UI designs into clean and responsive interfaces.
+</p>
 
 ## 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,flutter" alt="Mobile development technologies" />
+  <img src="https://skillicons.dev/icons?i=cpp,dart,flutter" alt="Mobile development technologies" />
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Front-end technologies" />
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql" alt="Back-end and database technologies" />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,cpp" alt="Development tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Development tools" />
 </p>
 
 
