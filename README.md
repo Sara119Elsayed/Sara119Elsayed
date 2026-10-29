@@ -14,7 +14,7 @@
 
 🎓 Computer Science graduate from Fayoum University .
 
-📱 ITI Professional Diploma graduate in **Cross-Platform Application Development**.
+📱 ITI Professional Diploma graduate in **Cross-Platform & FrontEnd Application Development**.
 
 💼 Software Engineer with professional experience building web dashboards and interactive applications.
 
@@ -28,16 +28,16 @@
 
 ## 🛠️ Tech Stack & Tools
 
-### 🎨 Front-End Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Front-end technologies" />
-</p>
-
 ### 📱 Mobile Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=dart,flutter" alt="Mobile development technologies" />
+</p>
+
+### 🎨 Front-End Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Front-end technologies" />
 </p>
 
 ### ⚙️ Back-End & Databases
@@ -50,19 +50,6 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,cpp" alt="Development tools" />
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=saraelsayed9&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Sara's GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraelsayed9&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=saraelsayed9&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ---
