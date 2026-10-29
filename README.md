@@ -52,7 +52,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,cpp" alt="Development tools" />
 </p>
 
----
 
 ## 🤝 Let's Connect
 
@@ -60,8 +59,9 @@
   <a href="mailto:saraelsayedlotfy4@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/saraelsayed9">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/saraelsayed9">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
 
