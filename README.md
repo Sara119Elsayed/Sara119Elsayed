@@ -1,5 +1,13 @@
 # 👋 Hi, I'm Sara Elsayed
 
+ <img
+    src="p.jpeg"
+    alt="Sara Elsayed"
+    width="180"
+    style="border-radius: 50%;"
+  />
+</p>
+
 ###  Software Engineer | FrontEnd & Cross-Platform Developer
 
 <p align="center">
