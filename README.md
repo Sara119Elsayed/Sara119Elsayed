@@ -17,6 +17,42 @@
   I have hands-on experience developing real-world dashboards, integrating RESTful APIs, building reusable UI components, and working with databases and authentication systems. I also use Figma to translate UI designs into clean and responsive interfaces.
 </p>
 
+🚀 Featured Projects
+
+🍰 Yum Slice – Online Cake Store
+
+A full-stack e-commerce platform for ordering cakes, built with Flutter and the MERN stack.
+[Live Demo](https://lnkd.in/p/dsU7DCaK)
+
+🌱 Plant Nursery – E-commerce Website
+
+An Angular-based e-commerce application for browsing and purchasing plants.
+[Live Demo](https://plant-nursery-ecommerce-366o.vercel.app/home)
+
+🧠 Lunar Memory – Memory Matching Game
+
+A browser-based game designed to test and improve short-term memory through card-matching challenges.
+[Live Demo](https://github.com/Sara119Elsayed/Memory-Game/blob/main/image.png)
+
+📱 Tasky App – Flutter Task Manager
+
+A task management mobile application that helps users organize and track their daily activities.
+[Live Demo](https://lnkd.in/p/d3chMgsa)
+
+🎬 Movies Website
+
+A responsive movie website for exploring trending movies and viewing movie details
+[Live Demo](https://lnkd.in/p/dsU7DCaK)
+
+🛒 E-Commerce – Frontend Application
+
+A modern e-commerce web application built with React.js, focusing on a smooth shopping experience and responsive design.
+
+🛍️ Shelfy – E-Commerce Admin Dashboard
+
+A modern and responsive admin dashboard for managing and monitoring e-commerce platform data using RESTful APIs.
+
+
 ## 🛠️ Tech Stack & Tools
 
 <p align="left">
