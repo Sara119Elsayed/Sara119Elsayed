@@ -41,7 +41,7 @@ A task management mobile application that helps users organize and track their d
  🎬 Movies Website
 
 A responsive movie website for exploring trending movies and viewing movie details
-[Live Demo](https://lnkd.in/p/dsU7DCaK)
+[Live Demo](https://lnkd.in/p/dwfCmkeJ)
 
  🛒 E-Commerce – Frontend Application
 
