@@ -16,7 +16,7 @@
   I have hands-on experience developing real-world dashboards, integrating RESTful APIs, building reusable UI components, and working with databases and authentication systems. I also use Figma to translate UI designs into clean and responsive interfaces.
 </p>
 
-## 🚀 Featured Projects
+## 💻 Featured Projects
 
 🍰 Yum Slice – Online Cake Store
 
