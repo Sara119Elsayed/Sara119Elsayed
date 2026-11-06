@@ -22,8 +22,6 @@
 
 A full-stack e-commerce platform for ordering cakes, built with Flutter and the MERN stack.
 [Live Demo](https://lnkd.in/p/dsU7DCaK)
-<img width="387" height="842" alt="cake store app2" src="https://github.com/user-attachments/assets/a64f0d08-701b-459a-8831-678fea122cf2" />
-
 
 🌱 Plant Nursery – E-commerce Website
 
