@@ -2,10 +2,6 @@
 
 ###  Software Engineer | FrontEnd & Cross-Platform Developer
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=8&section=header" width="100%" alt="Decorative banner" />
-</p>
-
 ## 🌟 About Me
 
 <p align="left">
